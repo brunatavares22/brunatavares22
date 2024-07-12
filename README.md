@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello, I’m Bruna Tavares!<br><br>    👀 I have a strong interest in FrontEnd development and designing user-friendly interfaces.<br>    🌱 I'm on a journey to become a full-stack developer, but I have a particular passion for front-end work.<br>    📫 You can reach me at btavares346@gmail.com.<br>    😄 My pronouns are she/her.
+![soulja-boy-pepe](https://github.com/user-attachments/assets/97e7e4ca-2ee9-4f8d-a7c2-8438c1ef5be0)
 
 
 ## 🌐 Socials:
